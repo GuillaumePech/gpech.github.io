@@ -1,42 +1,5 @@
 
 
-<div style="text-align:center; margin-top: 40px; font-size: 0.9rem; color:#666;">
-
-  <p style="margin-bottom: 10px;">
-
-    <!-- ResearchGate -->
-    <a href="https://www.researchgate.net/profile/Guillaume_Pech" target="_blank" rel="noopener" title="ResearchGate" style="margin: 0 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="28" style="vertical-align:middle;">
-    </a>
-    
-    <!-- Google Scholar -->
-    <a href="https://scholar.google.be/citations?user=RwCkpSMAAAAJ&hl=fr" target="_blank" rel="noopener" title="Google Scholar" style="margin: 0 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="28" style="vertical-align:middle;">
-    </a>
-    
-    <!-- GitHub -->
-    <a href="https://github.com/GuillaumePech" target="_blank" rel="noopener" title="GitHub" style="margin: 0 10px;">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28" style="vertical-align:middle;">
-    </a>
-    
-    <!-- Email (Gmail Icon) -->
-    <a href="mailto:guillaumepech.cog@gmail.com" title="Email" style="margin: 0 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="28" style="vertical-align:middle;">
-    </a>
-    
-    <!-- ORCID (Official Stable SVG) -->
-    <a href="https://orcid.org/0000-0002-8843-6604" target="_blank" rel="noopener" title="ORCID" style="margin: 0 10px;">
-      <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="28" style="vertical-align:middle;">
-    </a>
-
-
-  </p>
-
-
-</div>
-
-_PhD Student, Université libre de Bruxelles (ULB)_  
-
 ## Environment
 
 CO3 lab (ULB) — supervised by Prof. [Axel Cleeremans](https://axc.ulb.be/){:target="_blank"}  
