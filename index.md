@@ -1,4 +1,40 @@
 
+
+<div style="text-align:center; margin-top: 40px; font-size: 0.9rem; color:#666;">
+
+  <p style="margin-bottom: 10px;">
+
+    <!-- ResearchGate -->
+    <a href="https://www.researchgate.net/profile/Guillaume_Pech" target="_blank" rel="noopener" title="ResearchGate" style="margin: 0 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="28" style="vertical-align:middle;">
+    </a>
+    
+    <!-- Google Scholar -->
+    <a href="https://scholar.google.be/citations?user=RwCkpSMAAAAJ&hl=fr" target="_blank" rel="noopener" title="Google Scholar" style="margin: 0 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="28" style="vertical-align:middle;">
+    </a>
+    
+    <!-- GitHub -->
+    <a href="https://github.com/GuillaumePech" target="_blank" rel="noopener" title="GitHub" style="margin: 0 10px;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28" style="vertical-align:middle;">
+    </a>
+    
+    <!-- Email (Gmail Icon) -->
+    <a href="mailto:guillaumepech.cog@gmail.com" title="Email" style="margin: 0 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="28" style="vertical-align:middle;">
+    </a>
+    
+    <!-- ORCID (Official Stable SVG) -->
+    <a href="https://orcid.org/0000-0002-8843-6604" target="_blank" rel="noopener" title="ORCID" style="margin: 0 10px;">
+      <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="28" style="vertical-align:middle;">
+    </a>
+
+
+  </p>
+
+
+</div>
+
 _PhD Student, Université libre de Bruxelles (ULB)_  
 
 ## Environment
@@ -14,7 +50,7 @@ M&SB lab (Ghent University) — collaborating with Prof. [Emilie Caspar](https:/
 ## About
 Did you choose to be here? If yes, you must rely on a subjective experience that you make your *own choice*, producing action of your *own will*. But what is so specific about the actions that we experience as controlled compared to those that we do not? Why do we feel this way? 
 
-To answer these questions, I study neural and behavioral markers of **volition**, with a focus on the **Readiness Potential** and related self-report and implicit measures (e.g., temporal binding). More broadly, I investigate how decision-making processes interface with debates on free will and social/moral behavior.
+To answer these questions, I study neural and behavioural markers of **volition**, with a focus on the **Readiness Potential** and related self-report and implicit measures (e.g., temporal binding). More broadly, I investigate how decision-making processes interface with debates on free will and social/moral behavior.
 
 > More infos -> [[CV]](/CV_Post_doc_2025.pdf){:target="_blank"} 
 
@@ -55,39 +91,4 @@ To answer these questions, I study neural and behavioral markers of **volition**
 - Tutorial — **Introduction to MNE-python** (ULB, 2024,2025). [[github]](https://github.com/GuillaumePech/EEG_Introduction_Mne-Python)
 
 
-<div style="text-align:center; margin-top: 40px; font-size: 0.9rem; color:#666;">
-
-  <p style="margin-bottom: 10px;">
-
-    <!-- ResearchGate -->
-    <a href="https://www.researchgate.net/profile/Guillaume_Pech" target="_blank" rel="noopener" title="ResearchGate" style="margin: 0 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="28" style="vertical-align:middle;">
-    </a>
-    
-    <!-- Google Scholar (better stable icon) -->
-    <a href="https://scholar.google.be/citations?user=RwCkpSMAAAAJ&hl=fr" target="_blank" rel="noopener" title="Google Scholar" style="margin: 0 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="28" style="vertical-align:middle;">
-    </a>
-    
-    <!-- GitHub -->
-    <a href="https://github.com/GuillaumePech" target="_blank" rel="noopener" title="GitHub" style="margin: 0 10px;">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28" style="vertical-align:middle;">
-    </a>
-    
-    <!-- Email -->
-    <a href="mailto:guillaumepech.cog@gmail.com" title="Email" style="margin: 0 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_Envelope.svg" width="28" style="vertical-align:middle;">
-    </a>
-    
-    <!-- ORCID (high-quality icon) -->
-    <a href="https://orcid.org/0000-0002-8843-6604" target="_blank" rel="noopener" title="ORCID" style="margin: 0 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD_icon.svg" width="28" style="vertical-align:middle;">
-    </a>
-
-
-
-  </p>
-
-
-</div>
 
