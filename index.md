@@ -19,15 +19,15 @@ GitHub: <https://github.com/GuillaumePech>
 ---
 ## Selected Publications
 - Pech, G. P., & Caspar, E. A. (2025). _A cross-cultural EEG study of how obedience and conformity influence reconciliation intentions_. **Social Cognitive and Affective Neuroscience**. [[PDF]](papers/CrossCultur2025.pdf){:target="_blank"} [[DOI]](https://pubmed.ncbi.nlm.nih.gov/40324900/){:target="_blank"}
-- Caspar, E. A., Pech, G. P., & Ros, P. (2025). _Long-term affective and non-affective brain alterations across three generations following the genocide in Cambodia_. **Biological Psychology**. [[PDF]](#) [[DOI]](#)
-- Pech, G. P., Caspar, E. A., Pacherie, E., Cleeremans, A., & Maoz, U. (2025). _A multi-measurement study of the relation between deliberation and volition_. **Neuroscience of Consciousness**. [[PDF]](#) [[DOI]](#)
-- Caspar, E. A., & Pech, G. P. (2024). _Obedience to authority reduces cognitive conflict before an action_. **Social Neuroscience**. [[PDF]](#) [[DOI]](#)
-- Caspar, E. A., Nicolay, E., Banderembaho, F., & Pech, G. P. (2024). _Volition as a modulator of the intergroup empathy bias_. **Social Neuroscience**. [[PDF]](#) [[DOI]](#)
-- Pech, G. P., Gishoma, D., & Caspar, E. A. (2024). _A novel EEG-based paradigm to measure intergroup prosociality: An intergenerational study in the aftermath of the genocide against Tutsis in Rwanda_. **Journal of Experimental Psychology: General**. [[PDF]](#) [[DOI]](#)
-- Pech, P. G., & Caspar, A. E. (2023). _Does the cowl make the monk? The effect of military and Red Cross uniforms on empathy for pain, sense of agency and moral behaviors_. **Frontiers in Psychology**. [[PDF]](#) [[DOI]](#)
-- Pech, P. G., & Caspar, A. E. (2022). _Can a video game with a fictional minority group decrease intergroup biases towards non-fictional minorities? A social neuroscience study_. **International Journal of Human-Computer Interaction**. [[PDF]](#) [[DOI]](#)
+- Caspar, E. A., Pech, G. P., & Ros, P. (2025). _Long-term affective and non-affective brain alterations across three generations following the genocide in Cambodia_. **Biological Psychology**. [[PDF]](papers/PTSD2025.pdf){:target="_blank"} [[DOI]](https://doi.org/10.1016/j.biopsycho.2025.109028){:target="_blank"}
+- Pech, G. P., Caspar, E. A., Pacherie, E., Cleeremans, A., & Maoz, U. (2025). _A multi-measurement study of the relation between deliberation and volition_. **Neuroscience of Consciousness**. [[PDF]](papers/Deliberation2025.pdf){:target="_blank"} [[DOI]](https://doi.org/10.1093/nc/niaf023){:target="_blank"}
+- Caspar, E. A., & Pech, G. P. (2024). _Obedience to authority reduces cognitive conflict before an action_. **Social Neuroscience**. [[PDF]](papers/Obedience2024.pdf){:target="_blank"} [[DOI]](https://doi.org/10.1080/17470919.2024.2376049){:target="_blank"}
+- Caspar, E. A., Nicolay, E., Banderembaho, F., & Pech, G. P. (2024). _Volition as a modulator of the intergroup empathy bias_. **Social Neuroscience**. [[PDF]](papers/VolitionEmpathy2024.pdf){:target="_blank"} [[DOI]](https://doi.org/10.1080/17470919.2024.2446816){:target="_blank"}
+- Pech, G. P., Gishoma, D., & Caspar, E. A. (2024). _A novel EEG-based paradigm to measure intergroup prosociality: An intergenerational study in the aftermath of the genocide against Tutsis in Rwanda_. **Journal of Experimental Psychology: General**. [[PDF]](papers/Inteded2023.pdf){:target="_blank"} [[DOI]](https://doi.org/10.1037/xge0001480){:target="_blank"}
+- Pech, P. G., & Caspar, A. E. (2023). _Does the cowl make the monk? The effect of military and Red Cross uniforms on empathy for pain, sense of agency and moral behaviors_. **Frontiers in Psychology**. [[PDF]](papers/Enclothed2023.pdf){:target="_blank"} [[DOI]](https://doi.org/10.3389/fpsyg.2023.1255835){:target="_blank"}
+- Caspar, E. A., Pech, G. P., Gishoma, D., & Kanazayire, C. (2023). On the impact of the genocide on the intergroup empathy bias between former perpetrators, survivors, and their children in Rwanda. **American Psychologist**.[[PDF]](papers/Empathy2023.pdf){:target="_blank"} [[DOI]](https://doi.org/10.1037/amp0001066){:target="_blank"}
+- Pech, P. G., & Caspar, A. E. (2022). _Can a video game with a fictional minority group decrease intergroup biases towards non-fictional minorities? A social neuroscience study_. **International Journal of Human-Computer Interaction**. [[PDF]](papers/NGO2023.pdf){:target="_blank"} [[DOI]](https://doi.org/10.1080/10447318.2022.2121052){:target="_blank"}
 
-> Add or remove items freely. Put PDFs in the repository and link them directly.
 
 ---
 
