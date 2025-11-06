@@ -17,9 +17,8 @@ GitHub: <https://github.com/GuillaumePech>
 > For a full CV, contact me by email (replace with your email).
 
 ---
-
 ## Selected Publications
-- Pech, G. P., & Caspar, E. A. (2025). _A cross-cultural EEG study of how obedience and conformity influence reconciliation intentions_. **Social Cognitive and Affective Neuroscience**. [[PDF]](#) [[DOI]](#)
+- Pech, G. P., & Caspar, E. A. (2025). _A cross-cultural EEG study of how obedience and conformity influence reconciliation intentions_. **Social Cognitive and Affective Neuroscience**. [[PDF]](papers/Pech & Caspar  (2025). A cross-cultural EEG study of how obedience and conformity influence reconciliation intentions..pdf){:target="_blank"} [[DOI]](https://pubmed.ncbi.nlm.nih.gov/40324900/){:target="_blank"}
 - Caspar, E. A., Pech, G. P., & Ros, P. (2025). _Long-term affective and non-affective brain alterations across three generations following the genocide in Cambodia_. **Biological Psychology**. [[PDF]](#) [[DOI]](#)
 - Pech, G. P., Caspar, E. A., Pacherie, E., Cleeremans, A., & Maoz, U. (2025). _A multi-measurement study of the relation between deliberation and volition_. **Neuroscience of Consciousness**. [[PDF]](#) [[DOI]](#)
 - Caspar, E. A., & Pech, G. P. (2024). _Obedience to authority reduces cognitive conflict before an action_. **Social Neuroscience**. [[PDF]](#) [[DOI]](#)
