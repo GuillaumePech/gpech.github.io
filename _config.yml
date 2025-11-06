@@ -2,6 +2,7 @@ title: Guillaume P. Pech
 description: |
   Cognitive Science of volition, agency, and decision-making
 
+
   <div style="text-align:center; margin-top: 20px; font-size: 0.9rem; color:#666;">
     <p style="margin-bottom: 10px;">
 
@@ -31,7 +32,6 @@ description: |
       </a>
     </p>
 
-    <em>PhD Student, Université libre de Bruxelles (ULB)</em>
   </div>
 theme: jekyll-theme-minimal
 logo: /portrait.jpg
