@@ -33,7 +33,7 @@ To answer these questions, I study neural and behavioral markers of **volition**
 ## Preprint/Draft ongoing papers
 - Pech G. P. & Mentec I., Auger C., Coulibaly. B., Malaise M., Vandeville M., Cleeremans A.. To act or not to act? Implicit and explicit measures of the valence of the sense of agency. **Preprint osf** https://osf.io/2qx7e_v1
 - Pech, P. G., Nicolay E., Rimkevičius P., Maoz U., Cleeremans A. The  Role of Endogenous Input in Self-Generated Action: A Multi-Measurement Study Comparing Markers of Volition. [[draft]](papers/draft_Selfgen.pdf){:target="_blank"}
-- Pech, P. G., Berry S., Cleeremans A. The  Role of Endogenous Input in Self-Generated Action: A Multi-Measurement Study Comparing Markers of Volition. [[draft]](papers/draft_IntPred.pdf){:target="_blank"}
+- Pech, P. G., Berry S., Cleeremans A. Volition, Self-reports rely on what we choose, temporal binding on what we predict, and the readiness-potential on what we act for. [[draft]](papers/draft_IntPred.pdf){:target="_blank"}
   
 ---
 ## Teaching (selection)
