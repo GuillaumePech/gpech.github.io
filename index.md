@@ -14,8 +14,6 @@ Did you choose to be here? If yes, you must rely on a subjective experience that
 
 To answer these questions, I study neural and behavioral markers of **volition**, with a focus on the **Readiness Potential** and related self-report and implicit measures (e.g., temporal binding). More broadly, I investigate how decision-making processes interface with debates on free will and social/moral behavior.
 
-GitHub: <https://github.com/GuillaumePech>  
-
 > [[CV]](/CV_Post_doc_2025.pdf){:target="_blank"}
 
 ---
@@ -32,9 +30,10 @@ GitHub: <https://github.com/GuillaumePech>
 
 
 ---
-## Draft ongoing papers
+## Preprint/Draft ongoing papers
+- Pech G. P. & Mentec I., Auger C., Coulibaly. B., Malaise M., Vandeville M., Cleeremans A.. To act or not to act? Implicit and explicit measures of the valence of the sense of agency. **Preprint osf** https://osf.io/2qx7e_v1
 - Pech, P. G., Nicolay E., Rimkevičius P., Maoz U., Cleeremans A. The  Role of Endogenous Input in Self-Generated Action: A Multi-Measurement Study Comparing Markers of Volition. [[draft]](papers/draft_Selfgen.pdf){:target="_blank"}
-- Pech, P. G., Berry S., Cleeremans A. The  Role of Endogenous Input in Self-Generated Action: A Multi-Measurement Study Comparing Markers of Volition. [[draft]](papers/draft_IntPred.pdf){:target="_blank"}
+- Pech, P. G., Berry S., Cleeremans A. Volition, Self-reports rely on what we choose, temporal binding on what we predict, and the readiness-potential on what we act for. [[draft]](papers/draft_IntPred.pdf){:target="_blank"}
   
 ---
 ## Teaching (selection)
@@ -43,10 +42,5 @@ GitHub: <https://github.com/GuillaumePech>
 - Lecture — **Introduction to Mixed models** (ULB, 2024, 2025). [[github]](https://github.com/GuillaumePech/Cours-Mixed-Models_OMN2024)
 - Tutorial — **Introduction to MNE-python** (ULB, 2024,2025). [[github]](https://github.com/GuillaumePech/EEG_Introduction_Mne-Python)
 
----
 
-## Contact
-- Email: guillaumepech.cog@gmail.com / guillaume.pech@ulb.be
-- Location: Brussels, Avenue Antoine Depage 30, 1050, DB10.243, Belgium
-- Languages: French (native), English (B2+)
 
