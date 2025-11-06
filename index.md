@@ -14,7 +14,7 @@ Did you choose to be here? If yes, you must rely on a subjective experience that
 
 To answer these questions, I study neural and behavioral markers of **volition**, with a focus on the **Readiness Potential** and related self-report and implicit measures (e.g., temporal binding). More broadly, I investigate how decision-making processes interface with debates on free will and social/moral behavior.
 
-> [[CV]](/CV_Post_doc_2025.pdf){:target="_blank"}
+> More infos -> [[CV]](/CV_Post_doc_2025.pdf){:target="_blank"} 
 
 ---
 ## Publications
