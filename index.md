@@ -14,11 +14,11 @@ I study neural and behavioral markers of **volition**, with a focus on the **Rea
 
 GitHub: <https://github.com/GuillaumePech>  
 
-> For a full CV, contact me by email (replace with your email).
+> [[CV]](CV_Post_doc_2025.pdf){:target="_blank"}
 
 ---
 ## Selected Publications
-- Pech, G. P., & Caspar, E. A. (2025). _A cross-cultural EEG study of how obedience and conformity influence reconciliation intentions_. **Social Cognitive and Affective Neuroscience**. [[PDF]](papers/CrossCulturalSI){:target="_blank"} [[DOI]](https://pubmed.ncbi.nlm.nih.gov/40324900/){:target="_blank"}
+- Pech, G. P., & Caspar, E. A. (2025). _A cross-cultural EEG study of how obedience and conformity influence reconciliation intentions_. **Social Cognitive and Affective Neuroscience**. [[PDF]](papers/CrossCultur2025.pdf){:target="_blank"} [[DOI]](https://pubmed.ncbi.nlm.nih.gov/40324900/){:target="_blank"}
 - Caspar, E. A., Pech, G. P., & Ros, P. (2025). _Long-term affective and non-affective brain alterations across three generations following the genocide in Cambodia_. **Biological Psychology**. [[PDF]](#) [[DOI]](#)
 - Pech, G. P., Caspar, E. A., Pacherie, E., Cleeremans, A., & Maoz, U. (2025). _A multi-measurement study of the relation between deliberation and volition_. **Neuroscience of Consciousness**. [[PDF]](#) [[DOI]](#)
 - Caspar, E. A., & Pech, G. P. (2024). _Obedience to authority reduces cognitive conflict before an action_. **Social Neuroscience**. [[PDF]](#) [[DOI]](#)
@@ -39,7 +39,7 @@ GitHub: <https://github.com/GuillaumePech>
 ---
 
 ## Contact
-- Email: _you@ulb.be_ (replace with your email)
-- Location: Brussels, Belgium
+- Email: guillaumepech.cog@gmail.com / guillaume.pech@ulb.be
+- Location: Brussels, Avenue Antoine Depage 30, 1050, DB10.243, Belgium
 - Languages: French (native), English (B2+)
 
